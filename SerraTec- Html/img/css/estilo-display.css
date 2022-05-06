@@ -1,0 +1,21 @@
+body{
+    font-size: 24px;
+    font-family: Arial;
+}
+.empresa, .area{
+    background-color: aqua;
+    display: block;
+    height: 200px;
+    width:100px;
+}
+.computador,.roteador{
+    background-color: thistle;
+    display: inline;
+}
+.celular, .impressora{
+    background-color: blueviolet;
+    display: inline-block;
+    height: 100px;
+    width:200px;
+}
+
